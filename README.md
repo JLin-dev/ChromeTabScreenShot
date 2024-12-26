@@ -26,4 +26,4 @@ This Python script takes a screenshot of the screen and opens it in a new tab in
 Run the script:
 
 ```bash
-python your_script_name.py
+python main.py
